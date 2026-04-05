@@ -1,0 +1,16 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "frequency": 0.2,
+    "frequency_reduction_method": "legacy_type_1",
+    "salt": 78829684,
+    "separation": 8,
+    "spacing": 32
+  },
+  "structures": [
+    {
+      "structure": "thunstructures:stonehenge",
+      "weight": 1
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 10387982,
+    "separation": 4,
+    "spacing": 15
+  },
+  "structures": [
+    {
+      "structure": "thunstructures:moai",
+      "weight": 1
+    }
+  ]
+}
